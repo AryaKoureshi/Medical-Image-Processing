@@ -1,6 +1,6 @@
 # Medical Image Processing
 
-This repository contains code for processing and analyzing MRI images using Python. The project covers a variety of tasks including image loading, manipulation, noise addition, filtering, and analysis. It also explores advanced techniques such as Fourier transforms, PCA, and morphological operations for image enhancement and analysis.
+This repository contains code for processing and analyzing medical images using Python. The project covers a variety of tasks including image loading, manipulation, noise addition, filtering, and analysis. It also explores advanced techniques such as Fourier transforms, PCA, and morphological operations for image enhancement and analysis.
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
