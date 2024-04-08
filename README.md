@@ -12,7 +12,7 @@ This repository contains code for processing and analyzing MRI images using Pyth
 ## Getting Started
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/AryaKoureshi/mri-image-processing.git
+git clone https://github.com/AryaKoureshi/medical-image-processing.git
 ```
 
 ## Dependencies
@@ -24,11 +24,6 @@ This project requires the following dependencies:
 - OpenCV
 - Scikit-image
 - Scikit-learn
-
-You can install these dependencies using pip:
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
