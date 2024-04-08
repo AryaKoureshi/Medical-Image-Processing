@@ -12,7 +12,7 @@ This repository contains code for processing and analyzing MRI images using Pyth
 ## Getting Started
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/mri-image-processing.git
+git clone https://github.com/AryaKoureshi/mri-image-processing.git
 ```
 
 ## Dependencies
