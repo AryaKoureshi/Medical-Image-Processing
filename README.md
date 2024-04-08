@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
 1. **Image Loading and Processing:** Use the provided functions to load and process MRI images.
 2. **Noise Addition:** Add salt and pepper noise to images with a specified block size.
 3. **Variance Calculation:** Calculate the variance in a block of an image with arbitrary dimensions.
